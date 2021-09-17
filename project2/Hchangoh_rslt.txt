@@ -1,0 +1,130 @@
+Part1 start
+Part1 End---> sum: 500000500000
+
+ Part2 start ---> Parent Start of Execution
+Child thread number 1: 	 child start=1 	 end = 100000 	  childsum = 5000050000 
+ Child thread number 2: 	 child start=100001 	 end = 200000 	  childsum = 15000050000 
+ Child thread number 3: 	 child start=200001 	 end = 300000 	  childsum = 25000050000 
+ Child thread number 4: 	 child start=300001 	 end = 400000 	  childsum = 35000050000 
+ Child thread number 5: 	 child start=400001 	 end = 500000 	  childsum = 45000050000 
+ Child thread number 6: 	 child start=500001 	 end = 600000 	  childsum = 55000050000 
+ Child thread number 7: 	 child start=600001 	 end = 700000 	  childsum = 65000050000 
+ Child thread number 8: 	 child start=700001 	 end = 800000 	  childsum = 75000050000 
+ Child thread number 9: 	 child start=800001 	 end = 900000 	  childsum = 85000050000 
+ Child thread number 10: 	 child start=900001 	 end = 1000000 	  childsum = 95000050000 
+ Parent Total sum is :500000500000
+Part2 End ---> Parent:End of Execution
+
+ Part3 start ---> Parent Start Execution
+Child Thread number 4: 	 GrandChild thread number 1: 	 grandchild start=300001 	 grandchild end = 310000 	 grand child sum = 3050005000 
+ Child Thread number 4: 	 GrandChild thread number 2: 	 grandchild start=310001 	 grandchild end = 320000 	 grand child sum = 3150005000 
+ Child Thread number 4: 	 GrandChild thread number 3: 	 grandchild start=320001 	 grandchild end = 330000 	 grand child sum = 3250005000 
+ Child Thread number 4: 	 GrandChild thread number 4: 	 grandchild start=330001 	 grandchild end = 340000 	 grand child sum = 3350005000 
+ Child Thread number 3: 	 GrandChild thread number 1: 	 grandchild start=200001 	 grandchild end = 210000 	 grand child sum = 2050005000 
+ Child Thread number 3: 	 GrandChild thread number 2: 	 grandchild start=210001 	 grandchild end = 220000 	 grand child sum = 2150005000 
+ Child Thread number 3: 	 GrandChild thread number 3: 	 grandchild start=220001 	 grandchild end = 230000 	 grand child sum = 2250005000 
+ Child Thread number 3: 	 GrandChild thread number 4: 	 grandchild start=230001 	 grandchild end = 240000 	 grand child sum = 2350005000 
+ Child Thread number 3: 	 GrandChild thread number 5: 	 grandchild start=240001 	 grandchild end = 250000 	 grand child sum = 2450005000 
+ Child Thread number 3: 	 GrandChild thread number 6: 	 grandchild start=250001 	 grandchild end = 260000 	 grand child sum = 2550005000 
+ Child Thread number 1: 	 GrandChild thread number 1: 	 grandchild start=1 	 grandchild end = 10000 	 grand child sum = 50005000 
+ Child Thread number 1: 	 GrandChild thread number 2: 	 grandchild start=10001 	 grandchild end = 20000 	 grand child sum = 150005000 
+ Child Thread number 1: 	 GrandChild thread number 3: 	 grandchild start=20001 	 grandchild end = 30000 	 grand child sum = 250005000 
+ Child Thread number 1: 	 GrandChild thread number 4: 	 grandchild start=30001 	 grandchild end = 40000 	 grand child sum = 350005000 
+ Child Thread number 1: 	 GrandChild thread number 5: 	 grandchild start=40001 	 grandchild end = 50000 	 grand child sum = 450005000 
+ Child Thread number 1: 	 GrandChild thread number 6: 	 grandchild start=50001 	 grandchild end = 60000 	 grand child sum = 550005000 
+ Child Thread number 1: 	 GrandChild thread number 7: 	 grandchild start=60001 	 grandchild end = 70000 	 grand child sum = 650005000 
+ Child Thread number 1: 	 GrandChild thread number 8: 	 grandchild start=70001 	 grandchild end = 80000 	 grand child sum = 750005000 
+ Child Thread number 1: 	 GrandChild thread number 9: 	 grandchild start=80001 	 grandchild end = 90000 	 grand child sum = 850005000 
+ Child Thread number 1: 	 GrandChild thread number 10: 	 grandchild start=90001 	 grandchild end = 100000 	 grand child sum = 950005000 
+ Child thread number 1: 	 child start=1 	 end = 100000 	  childsum = 5000050000 
+ Child Thread number 2: 	 GrandChild thread number 1: 	 grandchild start=100001 	 grandchild end = 110000 	 grand child sum = 1050005000 
+ Child Thread number 2: 	 GrandChild thread number 2: 	 grandchild start=110001 	 grandchild end = 120000 	 grand child sum = 1150005000 
+ Child Thread number 2: 	 GrandChild thread number 3: 	 grandchild start=120001 	 grandchild end = 130000 	 grand child sum = 1250005000 
+ Child Thread number 2: 	 GrandChild thread number 4: 	 grandchild start=130001 	 grandchild end = 140000 	 grand child sum = 1350005000 
+ Child Thread number 2: 	 GrandChild thread number 5: 	 grandchild start=140001 	 grandchild end = 150000 	 grand child sum = 1450005000 
+ Child Thread number 2: 	 GrandChild thread number 6: 	 grandchild start=150001 	 grandchild end = 160000 	 grand child sum = 1550005000 
+ Child Thread number 2: 	 GrandChild thread number 7: 	 grandchild start=160001 	 grandchild end = 170000 	 grand child sum = 1650005000 
+ Child Thread number 2: 	 GrandChild thread number 8: 	 grandchild start=170001 	 grandchild end = 180000 	 grand child sum = 1750005000 
+ Child Thread number 2: 	 GrandChild thread number 9: 	 grandchild start=180001 	 grandchild end = 190000 	 grand child sum = 1850005000 
+ Child Thread number 2: 	 GrandChild thread number 10: 	 grandchild start=190001 	 grandchild end = 200000 	 grand child sum = 1950005000 
+ Child thread number 2: 	 child start=100001 	 end = 200000 	  childsum = 15000050000 
+ Child Thread number 3: 	 GrandChild thread number 7: 	 grandchild start=260001 	 grandchild end = 270000 	 grand child sum = 2650005000 
+ Child Thread number 3: 	 GrandChild thread number 8: 	 grandchild start=270001 	 grandchild end = 280000 	 grand child sum = 2750005000 
+ Child Thread number 3: 	 GrandChild thread number 9: 	 grandchild start=280001 	 grandchild end = 290000 	 grand child sum = 2850005000 
+ Child Thread number 3: 	 GrandChild thread number 10: 	 grandchild start=290001 	 grandchild end = 300000 	 grand child sum = 2950005000 
+ Child Thread number 4: 	 GrandChild thread number 5: 	 grandchild start=340001 	 grandchild end = 350000 	 grand child sum = 3450005000 
+ Child Thread number 4: 	 GrandChild thread number 6: 	 grandchild start=350001 	 grandchild end = 360000 	 grand child sum = 3550005000 
+ Child Thread number 4: 	 GrandChild thread number 7: 	 grandchild start=360001 	 grandchild end = 370000 	 grand child sum = 3650005000 
+ Child Thread number 4: 	 GrandChild thread number 8: 	 grandchild start=370001 	 grandchild end = 380000 	 grand child sum = 3750005000 
+ Child thread number 3: 	 child start=200001 	 end = 300000 	  childsum = 25000050000 
+ Child Thread number 9: 	 GrandChild thread number 1: 	 grandchild start=800001 	 grandchild end = 810000 	 grand child sum = 8050005000 
+ Child Thread number 9: 	 GrandChild thread number 2: 	 grandchild start=810001 	 grandchild end = 820000 	 grand child sum = 8150005000 
+ Child Thread number 9: 	 GrandChild thread number 3: 	 grandchild start=820001 	 grandchild end = 830000 	 grand child sum = 8250005000 
+ Child Thread number 4: 	 GrandChild thread number 9: 	 grandchild start=380001 	 grandchild end = 390000 	 grand child sum = 3850005000 
+ Child Thread number 9: 	 GrandChild thread number 4: 	 grandchild start=830001 	 grandchild end = 840000 	 grand child sum = 8350005000 
+ Child Thread number 9: 	 GrandChild thread number 5: 	 grandchild start=840001 	 grandchild end = 850000 	 grand child sum = 8450005000 
+ Child Thread number 9: 	 GrandChild thread number 6: 	 grandchild start=850001 	 grandchild end = 860000 	 grand child sum = 8550005000 
+ Child Thread number 4: 	 GrandChild thread number 10: 	 grandchild start=390001 	 grandchild end = 400000 	 grand child sum = 3950005000 
+ Child Thread number 9: 	 GrandChild thread number 7: 	 grandchild start=860001 	 grandchild end = 870000 	 grand child sum = 8650005000 
+ Child Thread number 7: 	 GrandChild thread number 1: 	 grandchild start=600001 	 grandchild end = 610000 	 grand child sum = 6050005000 
+ Child Thread number 7: 	 GrandChild thread number 2: 	 grandchild start=610001 	 grandchild end = 620000 	 grand child sum = 6150005000 
+ Child Thread number 7: 	 GrandChild thread number 3: 	 grandchild start=620001 	 grandchild end = 630000 	 grand child sum = 6250005000 
+ Child Thread number 7: 	 GrandChild thread number 4: 	 grandchild start=630001 	 grandchild end = 640000 	 grand child sum = 6350005000 
+ Child Thread number 7: 	 GrandChild thread number 5: 	 grandchild start=640001 	 grandchild end = 650000 	 grand child sum = 6450005000 
+ Child Thread number 7: 	 GrandChild thread number 6: 	 grandchild start=650001 	 grandchild end = 660000 	 grand child sum = 6550005000 
+ Child Thread number 9: 	 GrandChild thread number 8: 	 grandchild start=870001 	 grandchild end = 880000 	 grand child sum = 8750005000 
+ Child Thread number 7: 	 GrandChild thread number 7: 	 grandchild start=660001 	 grandchild end = 670000 	 grand child sum = 6650005000 
+ Child Thread number 7: 	 GrandChild thread number 8: 	 grandchild start=670001 	 grandchild end = 680000 	 grand child sum = 6750005000 
+ Child thread number 4: 	 child start=300001 	 end = 400000 	  childsum = 35000050000 
+ Child Thread number 10: 	 GrandChild thread number 1: 	 grandchild start=900001 	 grandchild end = 910000 	 grand child sum = 9050005000 
+ Child Thread number 9: 	 GrandChild thread number 9: 	 grandchild start=880001 	 grandchild end = 890000 	 grand child sum = 8850005000 
+ Child Thread number 6: 	 GrandChild thread number 1: 	 grandchild start=500001 	 grandchild end = 510000 	 grand child sum = 5050005000 
+ Child Thread number 10: 	 GrandChild thread number 2: 	 grandchild start=910001 	 grandchild end = 920000 	 grand child sum = 9150005000 
+ Child Thread number 5: 	 GrandChild thread number 1: 	 grandchild start=400001 	 grandchild end = 410000 	 grand child sum = 4050005000 
+ Child Thread number 8: 	 GrandChild thread number 1: 	 grandchild start=700001 	 grandchild end = 710000 	 grand child sum = 7050005000 
+ Child Thread number 6: 	 GrandChild thread number 2: 	 grandchild start=510001 	 grandchild end = 520000 	 grand child sum = 5150005000 
+ Child Thread number 6: 	 GrandChild thread number 3: 	 grandchild start=520001 	 grandchild end = 530000 	 grand child sum = 5250005000 
+ Child Thread number 6: 	 GrandChild thread number 4: 	 grandchild start=530001 	 grandchild end = 540000 	 grand child sum = 5350005000 
+ Child Thread number 6: 	 GrandChild thread number 5: 	 grandchild start=540001 	 grandchild end = 550000 	 grand child sum = 5450005000 
+ Child Thread number 6: 	 GrandChild thread number 6: 	 grandchild start=550001 	 grandchild end = 560000 	 grand child sum = 5550005000 
+ Child Thread number 6: 	 GrandChild thread number 7: 	 grandchild start=560001 	 grandchild end = 570000 	 grand child sum = 5650005000 
+ Child Thread number 7: 	 GrandChild thread number 9: 	 grandchild start=680001 	 grandchild end = 690000 	 grand child sum = 6850005000 
+ Child Thread number 7: 	 GrandChild thread number 10: 	 grandchild start=690001 	 grandchild end = 700000 	 grand child sum = 6950005000 
+ Child Thread number 8: 	 GrandChild thread number 2: 	 grandchild start=710001 	 grandchild end = 720000 	 grand child sum = 7150005000 
+ Child Thread number 8: 	 GrandChild thread number 3: 	 grandchild start=720001 	 grandchild end = 730000 	 grand child sum = 7250005000 
+ Child Thread number 8: 	 GrandChild thread number 4: 	 grandchild start=730001 	 grandchild end = 740000 	 grand child sum = 7350005000 
+ Child Thread number 8: 	 GrandChild thread number 5: 	 grandchild start=740001 	 grandchild end = 750000 	 grand child sum = 7450005000 
+ Child Thread number 8: 	 GrandChild thread number 6: 	 grandchild start=750001 	 grandchild end = 760000 	 grand child sum = 7550005000 
+ Child Thread number 8: 	 GrandChild thread number 7: 	 grandchild start=760001 	 grandchild end = 770000 	 grand child sum = 7650005000 
+ Child Thread number 8: 	 GrandChild thread number 8: 	 grandchild start=770001 	 grandchild end = 780000 	 grand child sum = 7750005000 
+ Child Thread number 8: 	 GrandChild thread number 9: 	 grandchild start=780001 	 grandchild end = 790000 	 grand child sum = 7850005000 
+ Child Thread number 8: 	 GrandChild thread number 10: 	 grandchild start=790001 	 grandchild end = 800000 	 grand child sum = 7950005000 
+ Child Thread number 9: 	 GrandChild thread number 10: 	 grandchild start=890001 	 grandchild end = 900000 	 grand child sum = 8950005000 
+ Child Thread number 10: 	 GrandChild thread number 3: 	 grandchild start=920001 	 grandchild end = 930000 	 grand child sum = 9250005000 
+ Child Thread number 10: 	 GrandChild thread number 4: 	 grandchild start=930001 	 grandchild end = 940000 	 grand child sum = 9350005000 
+ Child Thread number 10: 	 GrandChild thread number 5: 	 grandchild start=940001 	 grandchild end = 950000 	 grand child sum = 9450005000 
+ Child Thread number 10: 	 GrandChild thread number 6: 	 grandchild start=950001 	 grandchild end = 960000 	 grand child sum = 9550005000 
+ Child Thread number 10: 	 GrandChild thread number 7: 	 grandchild start=960001 	 grandchild end = 970000 	 grand child sum = 9650005000 
+ Child Thread number 10: 	 GrandChild thread number 8: 	 grandchild start=970001 	 grandchild end = 980000 	 grand child sum = 9750005000 
+ Child Thread number 10: 	 GrandChild thread number 9: 	 grandchild start=980001 	 grandchild end = 990000 	 grand child sum = 9850005000 
+ Child Thread number 10: 	 GrandChild thread number 10: 	 grandchild start=990001 	 grandchild end = 1000000 	 grand child sum = 9950005000 
+ Child Thread number 5: 	 GrandChild thread number 2: 	 grandchild start=410001 	 grandchild end = 420000 	 grand child sum = 4150005000 
+ Child Thread number 5: 	 GrandChild thread number 3: 	 grandchild start=420001 	 grandchild end = 430000 	 grand child sum = 4250005000 
+ Child Thread number 5: 	 GrandChild thread number 4: 	 grandchild start=430001 	 grandchild end = 440000 	 grand child sum = 4350005000 
+ Child Thread number 5: 	 GrandChild thread number 5: 	 grandchild start=440001 	 grandchild end = 450000 	 grand child sum = 4450005000 
+ Child Thread number 6: 	 GrandChild thread number 8: 	 grandchild start=570001 	 grandchild end = 580000 	 grand child sum = 5750005000 
+ Child Thread number 6: 	 GrandChild thread number 9: 	 grandchild start=580001 	 grandchild end = 590000 	 grand child sum = 5850005000 
+ Child Thread number 6: 	 GrandChild thread number 10: 	 grandchild start=590001 	 grandchild end = 600000 	 grand child sum = 5950005000 
+ Child Thread number 5: 	 GrandChild thread number 6: 	 grandchild start=450001 	 grandchild end = 460000 	 grand child sum = 4550005000 
+ Child Thread number 5: 	 GrandChild thread number 7: 	 grandchild start=460001 	 grandchild end = 470000 	 grand child sum = 4650005000 
+ Child Thread number 5: 	 GrandChild thread number 8: 	 grandchild start=470001 	 grandchild end = 480000 	 grand child sum = 4750005000 
+ Child Thread number 5: 	 GrandChild thread number 9: 	 grandchild start=480001 	 grandchild end = 490000 	 grand child sum = 4850005000 
+ Child Thread number 5: 	 GrandChild thread number 10: 	 grandchild start=490001 	 grandchild end = 500000 	 grand child sum = 4950005000 
+ Child thread number 5: 	 child start=400001 	 end = 500000 	  childsum = 45000050000 
+ Child thread number 6: 	 child start=500001 	 end = 600000 	  childsum = 55000050000 
+ Child thread number 7: 	 child start=600001 	 end = 700000 	  childsum = 65000050000 
+ Child thread number 8: 	 child start=700001 	 end = 800000 	  childsum = 75000050000 
+ Child thread number 9: 	 child start=800001 	 end = 900000 	  childsum = 85000050000 
+ Child thread number 10: 	 child start=900001 	 end = 1000000 	  childsum = 95000050000 
+ Parent: Total sum = 500000500000
+Part 3 End ---> Parent: End of Execution

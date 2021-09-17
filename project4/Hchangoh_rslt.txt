@@ -1,0 +1,33 @@
+Allocator>STAT
+Allocator: RQ P0 262144 W
+Allocator: RQ P1 262144 W
+Allocator: RQ P2 262200 W
+Allocator: STAT
+Addresses [0 : 262144] Process 0
+Addresses [262145 : 524289] Process 1
+Addresses [524290 : 786490] Process 2
+Addresses [786491 : END] Free
+Allocator: RL P1
+Allocator: RQ P3 200000 W
+Allocator: STAT
+Addresses [0 : 262144] Process 0
+Addresses [262145 : 462145] Process 3
+Addresses [462146 - 524289] Free 
+Addresses [524290 : 786490] Process 2
+Addresses [786491 : END] Free
+Allocator: RQ P4 200000 W
+Allocator: STAT
+Addresses [0 : 262144] Process 0
+Addresses [262145 : 462145] Process 3
+Addresses [462146 - 524289] Free 
+Addresses [524290 : 786490] Process 2
+Addresses [786491 : 986491] Process 4
+Addresses [986492 : END] Free
+Allocator: C
+Allocator: STAT
+Addresses [0 : 262144] Process 0
+Addresses [262145 : 462145] Process 3
+Addresses [462146 : 724346] Process 2
+Addresses [724347 : 924347] Process 4
+Addresses [924348 : END] Free
+Allocator: QUIT
